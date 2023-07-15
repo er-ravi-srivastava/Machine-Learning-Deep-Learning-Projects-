@@ -41,6 +41,12 @@ To begin, we will create a simple recommender system using movies from the Full 
 Skills Involved:
 1. Data Handling: Ability to manage and preprocess large datasets, handle missing values, and perform data cleaning.
 2. Recommendation Algorithms: Knowledge and implementation of content-based filtering, popularity-based filtering, and collaborative filtering algorithms.
+
+Project: Analysis of animal  Weight and Speed Relationship
+
+Project Description:
+
+The aim of this project is to visualize the relationship between the 'average weight' and 'highest movement speed' variables using a scatter plot. By extracting these columns from the dataset and plotting them, the project seeks to provide insights into any potential correlation or pattern between weight and speed. The scatter plot serves as a visual representation of the data, allowing for a better understanding of the relationship between these two variables.
 3. Data Analysis: Proficiency in analyzing and extracting insights from datasets to understand user preferences and movie attributes.
 4. Model Ensemble: Understanding of model combination techniques to create an ensemble of recommendation models for improved accuracy.
 5. Evaluation Metrics: Familiarity with evaluation metrics such as precision, recall, and Mean Average Precision (MAP) to assess the performance of recommendation systems.
