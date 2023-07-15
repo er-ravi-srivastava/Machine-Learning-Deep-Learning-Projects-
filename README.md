@@ -27,7 +27,7 @@ The Rain or Not Prediction project aims to provide a practical tool for individu
 Second one is based on course recommnedation 
 
 
-Project Title: Third Course Recommendation System
+Project Title:Course Recommendation System
 
 Project Description:
 In this project, our goal is to develop a recommendation system for a course platform using various recommendation algorithms, including content-based filtering, popularity-based filtering, and collaborative filtering. The project utilizes two datasets from MovieLens.
